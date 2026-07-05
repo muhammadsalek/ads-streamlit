@@ -11,8 +11,8 @@ Features:
 - Europass & Academic CV Styles
 - Multiple Export Formats (TXT, DOCX, PDF, PNG, SVG)
 
-Author: ADS Team
-Version: 3.0.0
+Author: Md Salek Miah, BSc in Statistics at Shahjalal University of Science and Technology-Sylhet, Bangladesh
+Version: 1.0.0
 """
 
 import streamlit as st
@@ -53,11 +53,11 @@ warnings.filterwarnings('ignore')
 
 APP_CONFIG = {
     "name": "Academic Design Studio",
-    "version": "3.0.0",
-    "author": "ADS Research Team",
-    "institution": "Harvard Medical School",
-    "department": "Global Health & Epidemiology",
-    "year": 2024
+    "version": "1.0.0",
+    "author": "Md Salek Miah",
+    "institution": "Shahjalal University of Science and Technology-Sylhet, Bangladesh",
+    "department": "Statistics ",
+    "year": 2023-2027
 }
 
 # ============================================================================
